@@ -1,16 +1,13 @@
 {
-  "name": "test-workspace",
+  "name": "component-c",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
-  "license": "ISC",
-  "workspaces": [
-    "component-a",
-    "component-b",
-    "component-c"
-  ]
+  "license": "ISC"
 }
